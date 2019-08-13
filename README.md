@@ -8,3 +8,4 @@ Get the latest [release](https://github.com/armytricks/CryptanalysisToolkit/rele
 A light-weight web version of this tool also exists [here](http://dulhanjayalath.com/decryptr). Be warned that the web version does not contain any analysis tools but can decrypt ciphers even if a key isn't known.
 
 ## Screenshots
+![Alt text](Main_Screen_Decrypted.png?raw=true "Main Screen Decrypted")
