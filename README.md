@@ -9,3 +9,6 @@ A light-weight web version of this tool also exists [here](http://dulhanjayalath
 
 ## Screenshots
 ![Alt text](Main_Screen_Decrypted.png?raw=true "Main Screen Decrypted")
+
+## [Documentation](http://dulhanjayalath.com/decryptr-port)
+A document containing an explanation of the algorithms used for decrypting the ciphers is also available [here](http://dulhanjayalath.com/decryptr-port). Note that the web version link given in the document is no longer active; use the link given above.
