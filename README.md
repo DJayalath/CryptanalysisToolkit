@@ -4,11 +4,11 @@ A classical cipher analysis and decryption toolkit. Uses heuristics in combinati
 ## [Portable Download](https://github.com/armytricks/CryptanalysisToolkit/releases/latest)
 Get the latest [release](https://github.com/armytricks/CryptanalysisToolkit/releases/latest)
 
-## ['Light' Web Version](http://dulhanjayalath.com/decryptr)
-A light-weight web version of this tool also exists [here](http://dulhanjayalath.com/decryptr). Be warned that the web version does not contain any analysis tools but can decrypt ciphers even if a key isn't known.
+## ['Light' Web Version](https://decryptr.dulhanjayalath.com)
+A light-weight web version of this tool also exists [here](https://decryptr.dulhanjayalath.com). Be warned that the web version does not contain any analysis tools but can decrypt ciphers even if a key isn't known. It also has its own [source code repository](https://github.com/armytricks/decryptr).
 
 ## Screenshots
 ![Alt text](Main_Screen_Decrypted.png?raw=true "Main Screen Decrypted")
 
-## [Documentation](http://dulhanjayalath.com/decryptr-port)
-A document containing an explanation of the algorithms used for decrypting the ciphers is also available [here](http://dulhanjayalath.com/decryptr-port). Note that the web version link given in the document is no longer active; use the link given above.
+## [Documentation](https://drive.google.com/file/d/1GhFGmQ920ppVtmHYqh-AViAVUbnG1zMX/preview)
+A document containing an explanation of the algorithms used for decrypting the ciphers is also available [here](https://drive.google.com/file/d/1GhFGmQ920ppVtmHYqh-AViAVUbnG1zMX/preview). Note that the web version link given in the document is no longer active; use the link given above.
